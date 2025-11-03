@@ -1,5 +1,4 @@
 # esme-tp-kubernetes-Johannel
-# ESME TP Kubernetes - Application Node.js
 
 ## Description
 Application Node.js simple affichant :
